@@ -1,2 +1,5 @@
-# newark-codes
+# Newark Codes
 GitHub Tutorial
+
+## Purpose
+*Codes*
